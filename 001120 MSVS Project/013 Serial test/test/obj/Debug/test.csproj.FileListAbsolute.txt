@@ -1,0 +1,10 @@
+D:\_Old data 2016\GreatFriendTeach\Azure IoT\Rev 2\_MSVS2017\013 Serial test\test\bin\Debug\test.exe.config
+D:\_Old data 2016\GreatFriendTeach\Azure IoT\Rev 2\_MSVS2017\013 Serial test\test\bin\Debug\test.exe
+D:\_Old data 2016\GreatFriendTeach\Azure IoT\Rev 2\_MSVS2017\013 Serial test\test\bin\Debug\test.pdb
+D:\_Old data 2016\GreatFriendTeach\Azure IoT\Rev 2\_MSVS2017\013 Serial test\test\bin\Debug\LoySerialPortUserControl.dll
+D:\_Old data 2016\GreatFriendTeach\Azure IoT\Rev 2\_MSVS2017\013 Serial test\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+D:\_Old data 2016\GreatFriendTeach\Azure IoT\Rev 2\_MSVS2017\013 Serial test\test\obj\Debug\test.Form1.resources
+D:\_Old data 2016\GreatFriendTeach\Azure IoT\Rev 2\_MSVS2017\013 Serial test\test\obj\Debug\test.Properties.Resources.resources
+D:\_Old data 2016\GreatFriendTeach\Azure IoT\Rev 2\_MSVS2017\013 Serial test\test\obj\Debug\test.csproj.GenerateResource.Cache
+D:\_Old data 2016\GreatFriendTeach\Azure IoT\Rev 2\_MSVS2017\013 Serial test\test\obj\Debug\test.exe
+D:\_Old data 2016\GreatFriendTeach\Azure IoT\Rev 2\_MSVS2017\013 Serial test\test\obj\Debug\test.pdb
